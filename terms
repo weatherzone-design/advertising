@@ -1,0 +1,323 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Weatherzone Advertising</title>
+
+	<meta property="og:title" content="Weatherzone Advertising" />
+	<meta property=”og:type” content=”website” />
+	<meta property="og:image" content="https://weatherzone.com.au/advertising/assets/preview.jpg" />
+	<meta property="og:description" content="Learn more about advertising on the Weatherzone website and app." />
+
+	<meta name="description" content="Learn more about advertising on the Weatherzone website and app." />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="assets/icons/favicon.ico" rel="shortcut icon" />
+	<link rel="icon" type="image/png" href="assets/icons/favicon-16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="assets/icons/favicon-32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="assets/icons/favicon-96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="assets/icons/favicon-192.png" sizes="192x192">
+	<link rel="apple-touch-icon" href="assets/icons/favicon-180.png" sizes="180x180">
+
+	<link rel="stylesheet" href="assets/style.css">
+	<script src="assets/script.js"></script>
+
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+
+	<style>
+
+	.blocks{
+		padding-top:100px;
+	}
+
+	.blocks p{
+		font-family: 'Open Sans', sans-serif;
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+	</style>
+
+</head>
+
+<body>
+	<div class="body-container" id="body-id">
+		<div class="navigation">
+			<div class="container">
+				<a href="/advertising" style="height:22px;"><img src="assets/weatherzone-advertising.svg" width="241px" height="22px"/></a>
+				<div class="menu" id="mobile-nav">
+					<a class="item" style="text-decoration:underline;" href="/advertising">Why Weatherzone?</a>
+					<a class="item" href="media-kit.pptx" target="_blank">Media Kit</a>
+					<a class="item" href="ad-specs.pdf" target="_blank">Ad Specs</a>
+					<div class="navigation-line"></div>
+					<div onclick="startAdvertising()" class="button">Start Advertising</div>
+				</div>
+				<a class="navigation-dropdown" onclick="navigation()"><div class="navigation-dropdown"></div></a>
+			</div>
+		</div>
+
+		<div class="main">
+			<div class="main-content">
+				<div class="blocks">
+
+					<p><b>Advertiser Terms and Conditions</b><br>
+			Last updated: June 2020</p>
+
+		<p>Weatherzone ABN 91 078 711 (&ldquo;we&rdquo;) and the customer/advertiser (&ldquo;you&rdquo;) wish to enter into an agreement regarding advertising and content integration, on our mobile site, our application, our website and other digital properties and products.</p>
+
+		<p>1. OVERVIEW <br>
+			1.1 Agreement <br>
+			The Agreement comprises:<br>
+			these Booking Terms and Conditions; <br>
+			the terms of the Insertion Order(s); <br>
+			any Credit Application Form; and<br>
+			where you are a Preferred Agency, any special terms we have agreed.<br>
+			1.2 Entire agreement of parties <br>
+			This Agreement constitutes the entire agreement between the parties and replaces any previous discussions, communications or other documents concerning the supply of the Services.</p>
+
+		<p>2. DEFINITIONS <br>
+			In this Agreement, the following words have these meanings, unless the context otherwise requires:</p>
+
+		<p>Advertising means: all advertising, marketing or other material supplied by you (including, without limitation, text, graphics and URLs) for publication on any of our sites in the form and manner approved by us;<br>
+			Affiliate means any legal entity that Owns, is Owned by, or is commonly Owned with, us, and includes all Related Bodies Corporate of such legal entities;<br>
+			Approved Agency means: any customer who provides advertising agency services to its customers and which is registered with us as an approved agency;<br>
+			Cancellation Fee means: the estimated charges and costs we would have reasonably expected to have received for provision of Services but for your late cancellation including our charges our Fees for publishing any Advertising based on the applicable Insertion Order;<br>
+			Confidential Information means: the terms and conditions of the Agreement; and<br>
+			all information of a confidential nature disclosed or communicated by the disclosing party to the recipient including any financial and pricing data; business plans; policies; suppliers; inventions; product information and information about a party&rsquo;s marketing and/or promotional activities but excludes any information which the recipient can establish:<br>
+			is or becomes generally available in the public domain otherwise than through a breach of this Agreement or any obligation of confidence owed to the disclosing party;<br>
+			is or becomes known to the recipient from a source other than the disclosing party otherwise than through a breach of an obligation of confidentiality owed to the disclosing party;<br>
+			is or has been independently developed or acquired by the recipient; or<br>
+			is approved in writing by the disclosing party for disclosure by the recipient;<br>
+			Fees means our fees and charges for the provision of Services as specified in the Insertion Order;<br>
+			Gaming Services means: any products or services which provide the means for customers to play a &lsquo;game of chance&rsquo;;<br>
+			Indirect Losses includes losses of profits, revenue, opportunity, anticipated savings or data or any indirect or consequential loss or damage;<br>
+			Insertion Order means: an insertion order which specifies details of the Services we agree to provide to you;<br>
+			Integration Placements means: a placement of Advertising which is integrated across multiple entry points on our sites;<br>
+			Launch Date means: the date at which we are scheduled to publish any Advertising as specified in the Insertion Order;<br>
+			Weatherzone means: Weatherzone (ABN 91 078 711 930) owned and maintained by The Weather Company Pty. Ltd ACN 078 711 930.<br>
+			Weatherzone Owned &amp; Operated Network means the websites that form part of the Weatherzone network desktop websites, our mobile-optimised websites, and applications,and any other digital properties and products owned and/or operated by us.<br>
+			Weatherzone Network means the Weatherzone Owned &amp; Operated Network;<br>
+			Order means an order for Services described in an Insertion Order which has been accepted by us in accordance with this Agreement;<br>
+			Our Sites means the Weatherzone Network.<br>
+			Preferred Agency means an agency with who we have agreed to offer special trading terms;<br>
+			Rate Card means our current standard rates and charges for the provision of Services as notified to you from time to time;<br>
+			Services means the services to be supplied by us to you as described in any Insertion Order;<br>
+			User means a person who accesses a page on our sites;<br>
+			we/our/us means Weatherzone in its own capacity to the extent that the relevant services are provided in connection with the Weatherzone Owned &amp; Operated Network (subject to part 3 of this definition below);<br>
+			you/your means the person identified as the &ldquo;Customer&rdquo; or &ldquo;Advertiser&rdquo; in the Insertion Order (and includes any advertising agency that is acting on behalf of any advertiser or client on whose behalf Services are being requested pursuant to an Insertion Order); and<br>
+			Value Credit means a credit we may issue to you upon your cancellation of an Order in accordance with clause 4.3(c) of this Agreement for the supply by us of replacement services of equivalent value to the Order.</p>
+
+		<p>3. GENERAL <br>
+			3.1 Applicable law <br>
+			This Agreement is governed by the laws of New South Wales, Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts of New South Wales, Australia. <br>
+			3.2 Notices <br>
+			A notice must be in writing to the address of the addressee as stated in the Insertion Order. <br>
+			3.3 Public statements <br>
+			You may not issue any press release or make other public statement in relation to this Agreement or the relationship established by this Agreement without our prior written consent. We may, however, make informational references to your participation in the Weatherzone network in press releases without obtaining your consent. <br>
+			3.4 No Agency <br>
+			This Agreement will not create a joint venture, legal partnership, employment or agency relationship between you and us. <br>
+			3.5 Assignment <br>
+			Neither party may transfer or assign this Agreement without the other party&rsquo;s prior written consent (not to be unreasonably withheld). <br>
+			3.6 Force Majeure <br>
+			Neither party will be liable for its failure to perform any of its obligations under this Agreement due to any contingency beyond its reasonable control. <br>
+			3.7 Privacy<br>
+			You may not send us or our partners any personal information or data that can be used to identify or locate a natural person, or sensitive financial, medical or sexual data.</p>
+
+		<p>We may collect your personal information to provide the Services to you and for invoicing purposes. The collection, use or disclosure of any personal information, to credit reporting agencies and other third parties as part of the provision of Advertising and for overdue accounts, to debt collection agencies to recover amounts owing.</p>
+
+		<p>You agree to store and use all personal information which we may provide to you in accordance with the requirements of the Privacy Act 1988 (Cth) and the Spam Act 2003 (Cth).</p>
+
+		<p>4. SERVICES <br>
+			4.1 Provision of Services <br>
+			We will provide to you with, and you agree to use, the Services in accordance with this Agreement. <br>
+			4.2 Orders for Services<br>
+			You may request Services from us by completing an Insertion Order.<br>
+			We will not be obliged to supply to you the particular Services set out in the Insertion Order until you have signed the Insertion Order.<br>
+			We may require you to submit a completed Credit Application Form prior to our signature of the Insertion Order.<br>
+			We have the right to engage third parties to perform the obligations according to the terms of the IO. Without derogating from the limitation of our liability under any other provision in the IO, should we elect to supply all or any of the services by any third party, we shall be liable for the quality of such services and for any delay in or failure to supply the services.<br>
+			4.3 Cancellation of Services<br>
+			You may cancel an Order for any Services at any time without charge provided that you give us at least:<br>
+			thirty (30) days&rsquo; notice prior to the Launch Date for Orders on the Weatherzone network ;<br>
+			In the event you cancel an Order for Services within 72 hours of the Launch Date:<br>
+			your Weatherzone Booking will nonetheless be billed as booked by Us and You will be charged the full Fees for the Order. No Value Credit or other compensation will be issued by Us to You or Your client.<br>
+			In the event that you cancel:<br>
+			your Weatherzone Booking between 3-30 days prior to the Launch Date; we will bill your Order as booked and you will be liable to pay the full amount of Fees owed for your Weatherzone Booking. We will, however, issue you with a Value Credit equivalent to the total Fees paid by you for your cancelled Order. Details of the Value Credit will be documented in a formal Weatherzone Inventory Cancellation form provided by us to you.<br>
+			All Value Credits issued pursuant to clause 4.3 above must be used within three (3) months of the issue date or they will be forfeited by you. You agree to alert Weatherzone to the redemption of any Value Credit by you at the time of completing a new Order for Services. <br>
+			You further acknowledge that use by you of any Value Credit is subject to the availability of replacement services and that a Value Credit: <br>
+			We may cancel an Order or part Order at any time without giving you any reasons for the cancellation. If we exercise this right we will at our option:<br>
+			refund to you any Fees that you already paid to us; issue you with a Value Credit; or reschedule the Launch Date to another date within sixty (60) days of the cancellation date; and you agree that this is our sole liability to you in relation to that particular Order or part Order.<br>
+			For the avoidance of doubt, a cancellation of an Order or part Order by either party pursuant to this clause 4.3 will be deemed to be a termination of this Agreement by that party in relation to such Order or part Order.<br>
+			4.4 Optimisation <br>
+			We use reasonable endeavours to deliver Services in accordance with the Order. In the event we reasonably believe that any campaign is underperforming, we may in our discretion change the placement of Advertising from that specified in the Order provided that it is displayed within a substantially equivalent-sized advertising unit and on a reasonably equivalent environment to those specified in the Order. <br>
+			4.5 Reporting<br>
+			Monthly Reporting updates will be sent out, within the first seven (business) days of the following month unless otherwise agreed upon.</p>
+
+		<p>5. ADVERTISING <br>
+			5.1 Form of Advertising<br>
+			You will ensure all Advertising complies with our advertising specifications (as may be modified by us from time-to-time) which are available on request or such other requirements we may advise you of.<br>
+			Your failure to meet our advertising specifications may delay or prevent placement of the Advertising on the Weatherzone Owned &amp; Operated Network, or cause its removal from the Weatherzone Owned &amp; Operated Network,, and is in breach of this Agreement. Without limiting clause 6.5, you must provide us with replacement Advertising within forty-eight (48) hours to the extent we may refuse to publish Advertising or we remove any Advertising pursuant to this Agreement.<br>
+			5.2 Editorial Matter<br>
+			You will ensure that Advertising is clearly identifiable to users as advertising material.<br>
+			You acknowledge that we may label any Advertising as an advertisement when we publish it.<br>
+			5.3 Promotion of Competitions <br>
+			You will ensure that any Advertising which references any game of skill competition or lottery promotion clearly identifies the promoter of the competition and that you have obtained all applicable permits and approvals for the conduct of the competition prior to the Launch Date. <br>
+			5.4 Website Links <br>
+			You will ensure that any URL referenced in any Advertising will link Users to the intended website. We may test whether the URL is functional and may in our discretion remove any URL which does not meet with our approval. <br>
+			5.5 Delivery of Advertising<br>
+			You will supply us with Advertising for our approval at least five (5) days prior to the Launch Date. You acknowledge that time is of the essence in your provision of the Advertising to us.<br>
+			If we do not receive your Advertising by Launch Date, we (at our sole discretion) may:<br>
+			(i) treat this as a cancellation of the applicable Order or part thereof and we may charge you a Cancellation Fee; or <br>
+			(ii) charge you fees from the Launch Date on a pro rata basis based on the value of the full Order (excluding portions consisting of performance-based) for each full day that the Advertising is not received.</p>
+
+		<p>If Advertising is late (as calculated by reference to clause 5.5(a) above), we are not required to guarantee full delivery of the Order and will not issue make goods or credits for any missed activity.<br>
+			5.6 Right to Publish Advertising <br>
+			You represent and warrant to us that you are fully authorised to publish, and that you authorise us to publish on your behalf, Advertising on our sites.</p>
+
+		<p>6. BETTING AND GAMING <br>
+			If you use our Services for the purpose of promoting or marketing any Gaming Services provided by you or any third party you will implement appropriate procedures to ensure that all Users who access such services via our sites are not domiciled in a country which prohibits access to Gaming Services. We may in our discretion have the right to audit and test the effectiveness of your procedures and you will provide us with any reasonable technical assistance we require for such audit.<br>
+			6.1 The Advertiser represents and warrants that:<br>
+			(a) it is a non-proprietary association[1] or licenced wagering operator[2] with the meaning of the Betting and Racing Act 1998 (NSW);<br>
+			(b) the correct responsible gambling messaging will be applied throughout the Advertisement;<br>
+			(c) where any prices are indicated in the Advertisement, the Advertiser will provide a disclaimer about the date, time and zone that a price is current to;<br>
+			(d) no promotions of odds will occur siren to siren during the broadcast, transmission or other communication of the match in play;<br>
+			(e) in NSW, there will be no advertising relating to any fixture or match that is in progress at the time of broadcast, transmission or communication of the advertisement; and<br>
+			(f) In NSW, SA and WA, there will be no promotion of inducements in contravention of the legal requirements in those states.<br>
+			6.2 Publication of each Advertisement by Weatherzone and affiliates is approved by the Advertiser pursuant to section 33H of the Betting and Racing Act 1998 (NSW).<br>
+			6.3 The Advertiser hereby indemnifies Weatherzone and affiliates from and against any and all costs, losses and expenses it may suffer or incur and any damages, claims or proceedings arising from or in relation to the acceptance of this approval and/or communication of each advertisement.<br>
+			6.4 For the avoidance of doubt, the indemnity provided by the Advertiser in clause 6.3 above extends to any act, or failure to act, on the part of Weatherzone and affiliates, including any failure by Weatherzone to apply or produce components (eg. graphical, textual, disclaimers) of the Advertisement.<br>
+			[1] &ldquo;Non-proprietary association&rdquo; means a body formed for the purpose of promoting and conducting race meetings, that does not distribute profits and is registered to with a controlling body responsible for the type of racing conducted by the relevant body<br>
+			[2] &ldquo;Licensed wagering operator&rdquo; means a wagering operator that holds a licence or authority (however described) under the legislation of New South Wales or any other State or Territory to carry out its wagering operations (whether in that State or Territory or elsewhere).</p>
+
+		<p>7. FEES &amp; PAYMENT TERMS<br>
+			7.1 Rates and Fees <br>
+			You will pay the Fees. If no Fees are specified in the Insertion Order, the charges for our Services will be as set out in our current Rate Card at the time of our acceptance of the Order. <br>
+			7.2 Changes to Rates <br>
+			We may change our Rate Card from time to time without notice. <br>
+			7.3 Cost and Charges <br>
+			Late payment charges for any overdue invoice which will be calculated monthly on the overdue amount at two per cent (2%) above the base rate of the Australian Banking Group.<br>
+			7.4 GST and Taxes <br>
+			You are responsible for computing and paying all taxes, duties and other government fees or charges payable or assessed in connection with this Agreement including (without limitation) goods and services tax, other value added tax, sales or use taxes, stamp duty and turnover tax, but excluding taxes, duties and government charges assessed on our income. <br>
+			7.5 Invoices<br>
+			We will invoice you monthly for fees at the end of your campaign and costs due under this Agreement (calculated and payable on Services booked under the applicable Insertion Order rather than Services delivered);<br>
+			You will pay the amounts invoiced within thirty (30) days of the date of the invoice (or in the timeframe as otherwise specified in the invoice).<br>
+			7.6 Measurement of Advertising <br>
+			We will measure advertising (including impressions delivered and clicks achieved) through our advertising tracking systems. Results from third party ad-servers will not be accepted for the purposes of billing and assessment of advertising performance.</p>
+
+		<p>
+			8. WARRANTIES &amp; REPRESENTATIONS<br>
+			8.1 Your Warranties <br>
+			You warrant to us that:<br>
+			you have all applicable licenses and consents necessary to enter into and perform your obligations under this agreement;<br>
+			if you are an advertising agency:<br>
+			you are fully authorised to act on behalf of any advertiser or client on whose behalf you are requesting Services and to bind such advertiser or client to this Agreement;<br>
+			both you and the advertiser or client on whose behalf you are requesting Services agree to be jointly and severally liable for all applicable responsibilities stated in this Agreement, including (without limitation) the payment obligations set out in clause 7 above; and<br>
+			as at the date of this Agreement, the advertiser or client on whose behalf you are requesting Services is not in material breach of any agreement with you, nor is such advertiser or client in default with respect of any amounts owed to you.<br>
+			you have complied and will continue to comply with all applicable laws and regulations in performing your obligations under this Agreement;<br>
+			you will not breach any agreement, arrangement or understanding with a third party as a result of entering into or performing any part of this Agreement;<br>
+			the Advertising complies with all applicable laws and regulations and industry guidelines; You will comply (and will ensure that your Client complies) with any additional terms imposed by a third party which apply to your use of the Services, as disclosed by us in the Insertion Order; the Advertising will not infringe the intellectual property rights of any person;<br>
+			the Advertising will not include content, or contain a link to any content, that is illegal, obscene, violent, defamatory, pornographic, offensive or discriminatory based on considerations of race, national origin, gender, age, disability, religion, sexual orientation or expression, that facilitates or promotes the unauthorised downloading, uploading, peer-to-peer sharing or streaming of copyrighted content, or promotes any companies, products or services that are in contravention of applicable Australian law, codes or regulations;<br>
+			neither you (nor any research vendor that you engage to conduct any research or study on the Weatherzone Network) will insert any tag, code, cookie, pixel or other data tracking or collection device into the Advertising without our express permission;<br>
+			you will not use or redistribute to any third party without our permission any information or reports we may supply to you other than for the purpose of evaluating the performance of our Services.<br>
+			8.2 Our Warranties <br>
+			We warrant to you that:<br>
+			we have the right to supply the Services to you;<br>
+			we will use reasonable care and skill in supplying the Services; and<br>
+			we will comply with all applicable laws and regulations in supplying the Services.<br>
+			8.3 Exclusion of Warranties <br>
+			We exclude all implied conditions and warranties from this Agreement except any conditions or warranties (such as those implied by the Competition and Consumer Act 2010 (Cth)) which cannot by law be excluded.</p>
+
+		<p>9. BREACH AND NON-COMPLIANCE<br>
+			9.1 If you fail to provide the Advertising for a booking by the Launch Date, we may aat our sole discretion, still accent the Advertising after the deadline. If the Advertising is ultimately not published because of failure to deliver the Advertising in sufficient time, you may still be charged for the Advertising and you have no claimagainst su for credit, republication or the Advertising unless it was an error on our part. <br>
+			9.2 If these terms are breached, and there is failure to pay for Advertising or you suffer an Insolvency Event (defined below), we may (in our discretion and without limitation):<br>
+			a)cancel any provision of the credit to you;<br>
+			b)require cash pre-payment for further Advertising;<br>
+			c)charge interest on all overdue amounts at the rate 2% above the Overdraft Base Rate;<br>
+			d) institute proceedings against for any outstanding amounts;<br>
+			e)recover our costs including mercantile agency and legal costs on a full indemnity basis;<br>
+			f)cease publication of further Advertising or suspend an agreement for Advertising not yet published until the breach is remedied and if it is not remedied within 10 Business Days, Partner Ad Server may terminate an agreement for Advertising not published;<br>
+			g)exercise any other rights at law.<br>
+			9.3 You suffer an &lsquo;Insolvency Event&rsquo; if:<br>
+			a) You are a natural person and commits an act of bankruptcy; or<br>
+			b)Advertiser is a body corporate and cannot pay its debts as and when they fall due or enters an arrangement with its creditors other than in the ordinary course of business or passes a resolution for administration, winding up or liquidation (other than for the purposes of reorganisation or reconstruction); or has a receiver, manager, liquidator or administrator appointed to any of its property or assets or has a petition presented for its winding up.<br>
+			9.4 We may withhold any discounts or rebates if you fail to comply with payment obligations.<br>
+			A written statement of debt signed by an authorised employee of ours is evidence of the amount owed by you. You must pay the electronic transmission costs.</p>
+
+		<p>10. INTELLECTUAL PROPERTY <br>
+			10.1 Ownership of IP<br>
+			Unless otherwise agreed in the Insertion Order, you and your licensors own the intellectual property in any Advertising, your trademarks and any other material you provide to us under this Agreement.<br>
+			Except as authorised by this Agreement, the parties agree not to: reproduce the other party&rsquo;s intellectual property; or sub-license, on-supply or further syndicate the other party&rsquo;s intellectual property on any website other than our sites.<br>
+			10.2 Licence of Intellectual Property<br>
+			You grant us a limited, non-exclusive and non-transferable licence to reproduce and communicate to the public the Advertising on our sites in accordance with the Agreement.</p>
+
+		<p>11. APPROVED AGENCIES <br>
+			11.1 Commission Payments<br>
+			Where you are an Approved Agency you will be entitled to receive a commission equal to ten per cent (10%) of the total amount of your monthly invoiced Fees.<br>
+			Our payment of any commission is conditional upon the following: you must fully disclose to your clients the amount of commission you receive from us; you must fully comply with this Agreement; no more than fifty per cent (50%) of the Fees we invoice in any month will be attributable to Services supplied to you on behalf of a single client; and your payment in full of invoices within thirty (30) days.<br>
+			11.2 Status as an Approved Agency<br>
+			You must supply us with any information we may reasonably request in support of your application to be registered as an Approved Agency including solvency statements, balance sheet and profit and loss statements and details of any insurance policies you hold.<br>
+			We may revoke your status as an Approved Agency at any time upon written notice without giving any reason.<br>
+			11.3 Disclosure <br>
+			You warrant to us that you have disclosed to your clients all benefits you may receive from us as a result of you being an Approved Agency.</p>
+
+		<p>12. CONFIDENTIALITY<br>
+			Each party must:<br>
+			take all action reasonably necessary to maintain the confidentiality of the other party&rsquo;s Confidential Information; and not disclose the other party&rsquo;s Confidential Information to any person except as permitted under clauses <br>
+			12(b) and (c) below:<br>
+			A party (&ldquo;recipient&rdquo;) may disclose the Confidential Information of the other party: to a representative of the recipient who needs to know the Confidential Information for the purposes of this Agreement and subject to the recipient taking reasonable steps to ensure that any such representative is fully aware of the confidential nature of the Confidential Information of the disclosing party before the disclosure is made; or which is required or authorised to be disclosed by any law.<br>
+			We may disclose and make available your Confidential Information to our Affiliates on the condition that we take reasonable steps to ensure that such Affiliates are made fully aware of the confidential nature of your Confidential Information before the disclosure is made. You consent to our Affiliates contacting you in connection with their provision to you of advertising, content integration, and/or other products or services to you.</p>
+
+		<p>13. INDEMNITY AND LIABILITY <br>
+			13.1 Indemnification <br>
+			You indemnify us against all loss, damage or liability we may suffer or incur arising out of any claim made against us as a result of breach of your warranties in clause 8.1 and any act or omission by you in connection with your Advertising. <br>
+			13.2 Limitation of Liability<br>
+			Neither party is liable for any Indirect Loss incurred by them or by any other person arising out of or in connection with this Agreement.<br>
+			Our liability to you for any claims made under this Agreement (whether such liability arises in contract, tort (including negligence) or otherwise) is, to the fullest extent permitted by law, limited at our option to resupplying the Services or paying the cost of having the Services resupplied.<br>
+			13.3 No responsibility for Advertising<br>
+			We are not liable for any aspect of the Advertising including any products or services referred to in the Advertising.<br>
+			You are solely responsible for the content of all Advertising and associated products and services, including any ancillary competitions and promotions.<br>
+			13.4 Complaints <br>
+			If you wish to make a claim for a Value Credit, republication or any other remedy in respect of our Services you must send the claim to us no less than fourteen (14) days after the Launch Date.</p>
+
+		<p>14. MISCELLANEOUS<br>
+			14.1 Relationship of the Parties. The parties are independent contractors. There is no relationship of partnership, employment, franchise or joint venture between the parties. <br>
+			14.2 Notices. All notices in connection with this Agreement shall be sent by email specified in IO, and will be considered delivered to the other party on the first business day following dispatch. <br>
+			14.3 Severability of Provisions. If any of the provisions of this Agreement is found invalid, these provisions will be severed and the remainder of the Agreement will remain in force and will not be affected. <br>
+			14.4 Entire Agreement. The Agreement contained in this instrument supersedes and cancels any and all prior agreements between the parties hereto, express or implied, written or oral, relating to the subject matter hereof. This Agreement sets forth the entire agreement between the parties hereto with respect to the subject matter hereof.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="footer">
+			<div class="content">
+				<div class="footer-left"><a href="https://weatherzone.com.au/"><img src="assets/weatherzone.svg" width="180px" height="30px"/></a></a><div class="social-icons"><a href="https://twitter.com/weatherzone"><img src="assets/icon-twitter.png" width="30px" height="30px"/></a><a href="https://facebook.com/weatherzone"><img src="assets/icon-facebook.png" width="30px" height="30px"/></a><a href="https://instagram.com/weatherzone"><img src="assets/icon-instagram.png" width="30px" height="30px"/></a></div></div>
+				<p>Copyright © 2020 Weatherzone   |   <a href="mailto:adsales@weatherzone.com.au">adsales@weatherzone.com.au</a><br><a href="terms">Advertiser Terms and Conditions</a>   |   <a href="https://www.weatherzone.com.au/about/privacy.jsp">Privacy Policy</a>   |   <a href="https://www.weatherzone.com.au/about/conditions.jsp">Conditions of Use</a>   |   <a href="https://www.weatherzone.com.au/about/disclaimer.jsp">Disclaimer</a></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="start-advertising" id="lightbox">
+		<div class="box">
+			<div class="lightbox-form">
+				<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+				<script>
+				  hbspt.forms.create({
+				portalId: "7279814",
+				formId: "454788f1-5086-4633-a8a4-f4eb794100db"
+				});
+				</script>
+			</div>
+			<div class="lightbox-branding">
+				<div onclick="startAdvertising()" class="close"></div>
+			</div>
+		</div>
+	</div>
+
+	<script> </script>
+	<!-- Start of HubSpot Embed Code -->
+	<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7279814.js"></script>
+	<!-- End of HubSpot Embed Code -->
+</body>
+
+</html>
