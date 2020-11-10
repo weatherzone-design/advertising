@@ -26,6 +26,43 @@
 
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+	<style>
+		    .slider {
+        width: 100%;
+        margin: 100px auto;
+    }
+
+    .slick-slide {
+      margin: 0px 20px;
+    }
+
+    .slick-slide img {
+      height: 60px;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+      color: black;
+    }
+
+
+    .slick-slide {
+      transition: all ease-in-out .3s;
+      opacity: 1;
+    }
+    
+    .slick-active {
+      opacity: 1;
+    }
+
+    .slick-current {
+      opacity: 1;
+    }
+	</style>
+
 </head>
 
 <body>
@@ -107,6 +144,64 @@
 					<div class="block-brands">
 						<img src="assets/brands/coca-cola.png"/><img src="assets/brands/lego.png"/><img src="assets/brands/suncorp.png"/><img src="assets/brands/mcdonalds.png"/><img src="assets/brands/amazon.png"/><img src="assets/brands/westpac.png"/><img src="assets/brands/sony.png"/><img src="assets/brands/hyundai.png"/><img src="assets/brands/telstra.png"/>
 					</div>
+					<div class="block-brands">
+						<section class="slider">
+							<div>
+								<img src="assets/brands/coca-cola.png">
+							</div>
+							<div>
+								<img src="assets/brands/lego.png">
+							</div>
+							<div>
+								<img src="assets/brands/suncorp.png">
+							</div>
+							<div>
+								<img src="assets/brands/mcdonalds.png">
+							</div>
+							<div>
+								<img src="assets/brands/amazon.png">
+							</div>
+							<div>
+								<img src="assets/brands/westpac.png">
+							</div>
+							<div>
+								<img src="assets/brands/sony.png">
+							</div>
+							<div>
+								<img src="assets/brands/hyundai.png">
+							</div>
+							<div>
+								<img src="assets/brands/telstra.png">
+							</div>
+							<div>
+								<img src="assets/brands/coca-cola.png">
+							</div>
+							<div>
+								<img src="assets/brands/lego.png">
+							</div>
+							<div>
+								<img src="assets/brands/suncorp.png">
+							</div>
+							<div>
+								<img src="assets/brands/mcdonalds.png">
+							</div>
+							<div>
+								<img src="assets/brands/amazon.png">
+							</div>
+							<div>
+								<img src="assets/brands/westpac.png">
+							</div>
+							<div>
+								<img src="assets/brands/sony.png">
+							</div>
+							<div>
+								<img src="assets/brands/hyundai.png">
+							</div>
+							<div>
+								<img src="assets/brands/telstra.png">
+							</div>
+						</section>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -137,6 +232,28 @@
 	</div>
 
 	<script> </script>
+		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script type="text/javascript" src="slick/slick.min.js"></script>
+	<script>
+$('.slider').slick({
+  infinite: true,
+  dots: true,
+  slidesToShow: 9,
+  slidesToScroll: 9,
+  responsive: [
+    {
+      breakpoint: 1100,
+      settings: {
+        slidesToShow: 4,
+        slidesToScroll: 4,
+        infinite: true,
+        dots: true
+      }
+    }
+  ]
+});
+	</script>
 	<!-- Start of HubSpot Embed Code -->
 	<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7279814.js"></script>
 	<!-- End of HubSpot Embed Code -->
